@@ -8,5 +8,5 @@ Created on Thu Mar 23 12:08:21 2023
 
 print("Hello World")
 
-x = 10 
 
+print("no more math")
